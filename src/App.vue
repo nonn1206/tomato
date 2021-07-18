@@ -10,9 +10,9 @@
   #contect
     //- b-container(cols="12")
     //- Home
-    List
     keep-alive
       router-view
+        List
 </template>
 
 <script>
